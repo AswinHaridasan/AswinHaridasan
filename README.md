@@ -70,13 +70,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AswinHaridasan&theme=algolia&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ### 📈 Activity Graph
 
