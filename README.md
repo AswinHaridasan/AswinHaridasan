@@ -32,7 +32,7 @@
 👯 **Open To:** Collaborating on open-source Python projects  
 💬 **Ask Me About:** Python, Django, Flask, REST APIs  
 ⚡ **Fun Fact:** Logic puzzles & guitar 🎸  
-🌐 **Portfolio:** [Visit Here](https://portfolio-aswin-haridasans-projects.vercel.app/)
+🌐 **Portfolio:** [Visit Here](https://aswinh-portfolio.vercel.app/)
 
 <br clear="right"/>
 
